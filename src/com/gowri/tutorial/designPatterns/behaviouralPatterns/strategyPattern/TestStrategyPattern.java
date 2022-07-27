@@ -1,4 +1,4 @@
-package com.gowri.tutorial.designPatterns.structuralPatterns.strategyPattern;
+package com.gowri.tutorial.designPatterns.behaviouralPatterns.strategyPattern;
 
 public class TestStrategyPattern {
 
